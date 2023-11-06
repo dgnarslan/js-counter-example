@@ -5,7 +5,7 @@ This project includes a counter website created using HTML, CSS, and JavaScript.
 
 ## Installation
 
-Clone the project first.[Weather Forecast Website](https://github.com/dgnarslan/js-counter-example)
+Clone the project first.[Javascript Counter Example](https://github.com/dgnarslan/js-counter-example)
 
 ```bash
 git clone https://github.com/dgnarslan/js-counter-example
